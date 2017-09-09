@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapWithAndroid</string>
+    <string name="show_map">Show a Map</string>
+
+</resources>
